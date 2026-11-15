@@ -133,4 +133,4 @@ Favourable and unfavourable colors are applied to variance KPIs. Cost variance i
 
 ## Tech Stack
 
-Clade Code, Power BI, DAX, TMDL, PBIR, Power BI Project (PBIP)
+Claude Code, Power BI, DAX, TMDL, PBIR, Power BI Project (PBIP)
